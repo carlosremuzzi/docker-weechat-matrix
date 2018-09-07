@@ -1,1 +1,0 @@
-/home/nobody/.weechat/lua/matrix.lua
